@@ -19,7 +19,7 @@
     "url": "https://github.com/getto-systems/reload-wrapper/issues"
   },
   "homepage": "https://github.com/getto-systems/reload-wrapper#readme",
-  "devDependencies": {
+  "dependencies": {
     "connect": "^3.6.6",
     "reload": "^2.3.1"
   }
