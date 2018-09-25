@@ -29,6 +29,31 @@ $ npm run reload
 <a id="Usage"></a>
 ## Usage
 
+### Install
+
+```
+$ npm install reload-wrapper
+```
+
+#### Web page setting
+
+You need include `/reload/reload.js` to your html.
+(reload-wrapper not append your html)
+
+```html
+<script src="/reload/reload.js"></script>
+```
+
+or
+
+```js
+var reload = document.createElement("script");
+reload.src = "/reload/reload.js";
+document.body.appendChild(reload);
+```
+
+
+### Command Line
 
 ```
 Usage: reload-wrapper [options]
