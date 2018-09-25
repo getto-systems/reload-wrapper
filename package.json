@@ -1,0 +1,22 @@
+{
+  "name": "reload-wrapper",
+  "version": "0.1.0",
+  "description": "thin wrapper for reload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getto-systems/reload-wrapper.git"
+  },
+  "author": "shun@getto.systems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getto-systems/reload-wrapper/issues"
+  },
+  "homepage": "https://github.com/getto-systems/reload-wrapper#readme",
+  "devDependencies": {
+    "reload": "^2.3.1"
+  }
+}
