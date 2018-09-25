@@ -1,6 +1,6 @@
 {
   "name": "reload-wrapper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "thin wrapper for reload",
   "main": "index.js",
   "bin": {
